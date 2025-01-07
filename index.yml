@@ -12,3 +12,8 @@ contacts:
     homePageUrl: https://github.com/Jaqster
 units:
   - unit1/index.yml
+  - unit2/index.yml
+  - unit3/index.yml
+  - unit4/index.yml
+  - unit5/index.yml
+  - unit6/index.yml
